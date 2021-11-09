@@ -1,6 +1,6 @@
 <img src="/my-octocat-1634843320640.png" alt="hijennyngo Octocat" width="40%"/>
 
-## Hello Humans!
+## Hello 👋🏻 Humans!
 I'm a Customer Success Manager based in San Jose, CA ☀️. <br>
 I'm a technology enthusiast and engineer 👩🏻‍💻. <br>
 Currently learning about DevOps and GitHub, and specialized in network and compute infrastructure. <br>
