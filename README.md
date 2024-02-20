@@ -3,7 +3,7 @@
 ## Hello 👋🏻 Humans!
 I'm a Customer Success Manager based in San Jose, CA ☀️. <br>
 I'm a technology enthusiast and engineer 👩🏻‍💻. <br>
-Currently learning about DevOps and GitHub, and specialized in network and compute infrastructure. <br>
+Continually learning about GitHub's developer platform, and specialized in network and compute infrastructure. <br>
 I love ♥️ oolong milk tea with grass jelly 🧋, hiking 🥾, cooking 🍳, and traveling ✈️!
 
 <!---
